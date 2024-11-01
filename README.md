@@ -2,14 +2,16 @@
 #### Reg no : 212222110045
 #### Date : 
 
-## EX - 7 : Implementation of AES
+## EX - 8 : Implementation of AES
 
 ### Aim:
 Implementation of Advanced Encryption Standard
 
 ### Algorithm
-```
+
 1. Start.
+
+
 2. Initialize the input URL that you want to encrypt (e.g., "https://example.com/search?q=test").
 3. Define a key for encryption (KEY = 0xAA).
 4. Calculate the length of the input URL (i.e., the number of characters).
@@ -23,7 +25,7 @@ Implementation of Advanced Encryption Standard
   Store the result (decrypted value) in the output array.
 8. Print the decrypted URL to verify that it matches the original input URL.
 9. End
-```
+
 ### Program:
 ```
 #include <stdio.h>
@@ -63,4 +65,4 @@ int main()
 ![image](https://github.com/user-attachments/assets/68fc66a1-f49f-4ec9-8155-dccb3a5d7ef8)
 
 ### Result
-Implementation of Advanced Encryption Standard to encrypt and decrypt url was successfull.
+Implementation of Advanced Encryption Standard to encrypt and decrypt url was successful.
